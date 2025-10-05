@@ -175,7 +175,6 @@ import { DisableScroll } from '@/components1/disable-scroll';
 
                                 <div>
                                     {/* name of the user that post */}
-                                    <h2>{user}</h2>
                                 </div>
 
                                 {/* Image wrapper with fixed height */}
